@@ -1,2 +1,6 @@
-line 0
+<<<<<<< HEAD
+line zero
+=======
+line one
+>>>>>>> afd6669ec7d9f29b0e18ff242c4e7fb2f4274e39
 line 2
